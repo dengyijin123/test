@@ -1,4 +1,11 @@
 ﻿Main()
 {
+
    print "hello the world"
+
+}
+
+show()
+{
+   xxx
 }
