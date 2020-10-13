@@ -3,7 +3,3 @@
    print "hello word"
 }
 
-show()
-{
-   xxx
-}
